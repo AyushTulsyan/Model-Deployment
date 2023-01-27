@@ -1,0 +1,1 @@
+web: gunicorn ML_deploy_html:app
